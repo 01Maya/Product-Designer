@@ -4,7 +4,7 @@ import Script from 'next/script'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Product Designer Portfolio | Alex Morgan',
+  title: 'Product Designer Portfolio | Alex Morgan ✨',
   description: 'Premium product design portfolio. I turn bold ideas into thoughtful digital experiences.',
   icons: {
     icon: [
