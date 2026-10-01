@@ -1,3 +1,3 @@
-# Product Designer Portfolio
+# Product Designer Portfolio ⭐️
 
 ## ✨ Overview
