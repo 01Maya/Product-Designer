@@ -11,3 +11,4 @@ Built with a clean visual system, subtle lavender accents, smooth motion, and a 
 ## 📝 Description
 
 This portfolio presents a product designer's work, design approach, experience, testimonials, and availability through a refined single-page experience.  
+The interface combines generous whitespace, strong typography, responsive layouts, subtle animations, and carefully designed interactions.  
