@@ -18,3 +18,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 
 ## 🚀 Features
 
+- Fully responsive design for desktop, tablet, and mobile devices
