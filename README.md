@@ -23,4 +23,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Fixed/sticky navbar available throughout the
 - Scroll-triggered reveal animations
 - Smooth section transitions
-
+- Subtle hover effects for buttons, links, services, and projects
