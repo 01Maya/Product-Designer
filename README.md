@@ -22,3 +22,5 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Smooth scroll navigation between sections
 - Fixed/sticky navbar available throughout the
 - Scroll-triggered reveal animations
+- Smooth section transitions
+
