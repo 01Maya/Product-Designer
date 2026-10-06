@@ -21,3 +21,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Fully responsive design for desktop, tablet, and mobile devices
 - Smooth scroll navigation between sections
 - Fixed/sticky navbar available throughout the
+- Scroll-triggered reveal animations
