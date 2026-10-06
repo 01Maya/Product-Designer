@@ -15,3 +15,6 @@ The interface combines generous whitespace, strong typography, responsive layout
 Every section is structured to guide visitors naturally from introduction to selected work, experience, FAQs, and the final contact CTA.
 
 ---
+
+## 🚀 Features
+
