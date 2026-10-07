@@ -25,3 +25,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Smooth section transitions
 - Subtle hover effects for buttons, links, services, and projects
 - Interactive project previews and micro-interactions
+- Responsive selected-work layout
