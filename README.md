@@ -33,3 +33,5 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Reduced-motion support for users who prefer less animation
   
 ---
+
+## Tech Stack
