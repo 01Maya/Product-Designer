@@ -30,5 +30,6 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Interactive FAQ accordion
 - Smooth CTA and footer interactions
 - Accessible and keyboard-friendly navigation
-
+- Reduced-motion support for users who prefer less animation
+  
 ---
