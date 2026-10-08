@@ -29,6 +29,6 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Experience timeline presentation
 - Interactive FAQ accordion
 - Smooth CTA and footer interactions
-
+- Accessible and keyboard-friendly navigation
 
 ---
