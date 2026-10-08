@@ -27,5 +27,7 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Interactive project previews and micro-interactions
 - Responsive selected-work layout
 - Experience timeline presentation
+- Interactive FAQ accordion
+
 
 ---
