@@ -28,6 +28,7 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Responsive selected-work layout
 - Experience timeline presentation
 - Interactive FAQ accordion
+- Smooth CTA and footer interactions
 
 
 ---
