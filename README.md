@@ -39,3 +39,5 @@ Every section is structured to guide visitors naturally from introduction to sel
 ##  🛠️ Tech Stack
 
 - **Next.js** — React framework for building the portfolio
+- **Tailwind CSS** — Utility-first styling and responsive layout system
+
