@@ -41,4 +41,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 - **Next.js** — React framework for building the portfolio
 - **Tailwind CSS** — Utility-first styling and responsive layout system
 - **Framer Motion** — Smooth animations, scroll reveals, and micro-interactions
-
+- **shadcn/ui** — Reusable, accessible UI components
