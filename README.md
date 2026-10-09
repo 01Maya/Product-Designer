@@ -32,7 +32,7 @@ Every section is structured to guide visitors naturally from introduction to sel
 - Accessible and keyboard-friendly navigation
 - Reduced-motion support for users who prefer less animation
 - Consistent spacing, typography, and color system
-
+- Minimal editorial visual style
 
 ---
 
