@@ -36,4 +36,4 @@ Every section is structured to guide visitors naturally from introduction to sel
 
 ---
 
-## Tech Stack
+##  🛠️ Tech Stack
