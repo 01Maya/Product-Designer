@@ -65,5 +65,6 @@ Displays professional experience in a clean chronological timeline with roles, c
 ### 💬 Kind Words
 Highlights client and collaborator testimonials using minimal, visually distinct testimonial cards.
 
+### ❓ FAQ
 
 ---
