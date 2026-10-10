@@ -60,4 +60,5 @@ Presents the core services across product design, UI/UX design, design systems, 
 Showcases featured projects through a structured editorial project grid with a dominant featured case study and supporting projects.
 
 ### 💼 Experience
+Displays professional experience in a clean chronological timeline with roles, companies, and short descriptions.
 
