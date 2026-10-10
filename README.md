@@ -66,5 +66,7 @@ Displays professional experience in a clean chronological timeline with roles, c
 Highlights client and collaborator testimonials using minimal, visually distinct testimonial cards.
 
 ### ❓ FAQ
+Answers common questions about project types, collaboration, engagement, and availability through an interactive accordion.
+
 
 ---
