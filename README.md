@@ -63,5 +63,7 @@ Showcases featured projects through a structured editorial project grid with a d
 Displays professional experience in a clean chronological timeline with roles, companies, and short descriptions.
 
 ### 💬 Kind Words
+Highlights client and collaborator testimonials using minimal, visually distinct testimonial cards.
+
 
 ---
