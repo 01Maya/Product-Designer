@@ -54,3 +54,4 @@ Introduces the designer with a strong headline, short positioning statement, CTA
 Explains the designer's approach, perspective, and focus while highlighting key design capabilities.
 
 ### 🎯 What I Do
+Presents the core services across product design, UI/UX design, design systems, and prototyping.
