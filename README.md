@@ -53,3 +53,4 @@ Introduces the designer with a strong headline, short positioning statement, CTA
 ### 👤 About
 Explains the designer's approach, perspective, and focus while highlighting key design capabilities.
 
+### 🎯 What I Do
