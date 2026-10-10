@@ -69,6 +69,7 @@ Highlights client and collaborator testimonials using minimal, visually distinct
 Answers common questions about project types, collaboration, engagement, and availability through an interactive accordion.
 
 ### 📩 CTA & Footer
+Ends the experience with a clear contact CTA and a minimal footer containing designer information and social/contact links.
 
 
 ---
