@@ -46,3 +46,5 @@ Every section is structured to guide visitors naturally from introduction to sel
 - **shadcn/ui** — Reusable, accessible UI components
 
 ##  🧩 Sections
+
+### 👋 Hero
