@@ -50,3 +50,5 @@ Every section is structured to guide visitors naturally from introduction to sel
 ### 👋 Hero
 Introduces the designer with a strong headline, short positioning statement, CTAs, and a featured project preview.
 
+### 👤 About
+
