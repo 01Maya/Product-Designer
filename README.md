@@ -68,5 +68,7 @@ Highlights client and collaborator testimonials using minimal, visually distinct
 ### ❓ FAQ
 Answers common questions about project types, collaboration, engagement, and availability through an interactive accordion.
 
+### 📩 CTA & Footer
+
 
 ---
