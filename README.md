@@ -55,3 +55,6 @@ Explains the designer's approach, perspective, and focus while highlighting key 
 
 ### 🎯 What I Do
 Presents the core services across product design, UI/UX design, design systems, and prototyping.
+
+### 🖥️ Selected Work
+Showcases featured projects through a structured editorial project grid with a dominant featured case study and supporting projects.
