@@ -79,4 +79,4 @@ https://product-designer-ruby.vercel.app/
 
 ---
 
-##  Screenshot
+## 📸 Screenshot
