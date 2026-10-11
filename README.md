@@ -71,5 +71,6 @@ Answers common questions about project types, collaboration, engagement, and ava
 ### 📩 CTA & Footer
 Ends the experience with a clear contact CTA and a minimal footer containing designer information and social/contact links.
 
-
 ---
+
+## Preview
