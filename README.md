@@ -92,5 +92,8 @@ Make sure you have installed:
 - Node.js 18.18 or later
 - npm, pnpm, yarn, or another supported package manager
 
+### 📦 Installation
+
+
 
 ---
