@@ -119,4 +119,10 @@ Open the local development server at:
 http://localhost:3000
 ```
 
+### 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
 ---
