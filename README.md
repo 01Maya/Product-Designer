@@ -87,5 +87,8 @@ https://product-designer-ruby.vercel.app/
 
 ### 📋 Prerequisites
 
+Make sure you have installed:
+
+
 
 ---
