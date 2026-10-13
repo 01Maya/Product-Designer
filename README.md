@@ -124,5 +124,8 @@ http://localhost:3000
 ```bash
 npm run build
 ```
-
 ---
+
+## 🎨 Design
+
+Minimal, editorial, and responsive with generous whitespace, strong typography, subtle lavender accents, and smooth interactions.
