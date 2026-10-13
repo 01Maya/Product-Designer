@@ -81,6 +81,8 @@ https://product-designer-ruby.vercel.app/
 
 ## 📸 Screenshot
 
+<img width="1763" height="5888" alt="Image" src="https://github.com/user-attachments/assets/78213d18-d2ef-469d-833a-648232c86d10" />
+
 ---
 
 ## ⚡ Getting Started
