@@ -94,6 +94,9 @@ Make sure you have installed:
 
 ### 📦 Installation
 
+Clone the repository:
+
+
 
 
 ---
