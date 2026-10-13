@@ -130,6 +130,8 @@ npm run build
 
 Minimal, editorial, and responsive with generous whitespace, strong typography, subtle lavender accents, and smooth interactions.
 
+--- 
+
 ## 📱 Responsive
 
 Fully responsive across desktop, tablet, and mobile with accessible navigation and reduced-motion support.
