@@ -113,5 +113,10 @@ npm install
 npm run dev
 ```
 
+Open the local development server at:
+
+```text
+http://localhost:3000
+```
 
 ---
