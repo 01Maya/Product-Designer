@@ -109,7 +109,9 @@ npm install
 
 ### ▶️ Run the Development Server
 
-
+```bash
+npm run dev
+```
 
 
 ---
