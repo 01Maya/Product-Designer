@@ -101,6 +101,8 @@ git clone <your-repository-url>
 cd <your-project-folder>
 ```
 
+Install dependencies:
+
 
 
 ---
