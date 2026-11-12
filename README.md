@@ -138,4 +138,4 @@ Minimal, editorial, and responsive with generous whitespace, strong typography, 
 
 Fully responsive across desktop, tablet, and mobile with accessible navigation and reduced-motion support.
 
----
+
